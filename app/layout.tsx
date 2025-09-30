@@ -7,9 +7,8 @@ import { Suspense } from "react"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "FBLA Resources - Future Business Leaders of America",
-  description: "Essential resources and business education for FBLA officers and members",
-  generator: "v0.app",
+  title: "fbla resources",
+  description: "Guides for FBLA officers and members",
 }
 
 export default function RootLayout({
